@@ -1,0 +1,8 @@
+8. Faça uma pesquisa sobre o fenômeno conhecido como Deadly Diamond of Death e   
+escreva cinco linhas sobre ele. Faça um diagrama de classes em que ele aparece.
+
+R: Basicamente, o fenomeno Deadly diamond of death acontece quando há heranças multiplas. 
+Há uma ambiguidade que surge quando 2 classes herdam de uma superclasse e outra classe herda
+das classes filhas que estão sob a superclasse criada anteriormente. A linguagem Java não 
+permite é herança múltipla onde uma classe pode herdar propriedades de mais de uma classe, ou seja,
+não permite que o fenomeno Deadly Diamond of Death aconteça.
