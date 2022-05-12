@@ -1,4 +1,4 @@
-package ex03;
+package ex03ex04;
 
 public class Animal {
      String nome;
